@@ -1,6 +1,7 @@
 ### Análise de Dados de RH com Power BI
 
 <img width="4000" height="2250" alt="mp-03-1" src="https://github.com/user-attachments/assets/d1b5719a-5e7b-43e4-b62b-ca80690162c5" />
+🔎 Para análise completa, veja: [analysis.md](./analysis.md)
 
 ### Estrutura do Projeto
 ```
