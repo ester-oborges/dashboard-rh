@@ -6,7 +6,7 @@
 
 ### Estrutura do Projeto
 ```
-global_ecommerce_dashboard/
+dashboard-rh/
 │
 ├── ._DatasetRH.csv
 ├── dashboard-rh.pbix
